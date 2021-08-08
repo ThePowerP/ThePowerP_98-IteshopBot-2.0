@@ -5,7 +5,7 @@ Esta nueva versión del bot de la tienda cambia el diseño en el que se genera l
 Sigueme en [Twitter](https://twitter.com/Fortnitefiltr11)
 
 <p align="center">
-    <img src="https://i.ibb.co/6v7RX3V/itemshop.png" width="650px" draggable="false">
+    <img src="https://i.ibb.co/wCXqdjb/itemshop.png" width="650px" draggable="false">
 </p>
 
 ## Requisitos Previos
