@@ -1,0 +1,16 @@
+{
+    "delayStart": 0,
+    "fortniteAPI": {
+        "apiKey": "fortniteapi.io"
+    },
+    "language": "es",
+    "supportACreator": "",
+    "footer": "Codigo: ThePowerP_98",
+    "twitter": {
+        "enabled": false,
+        "apiKey": "",
+        "apiSecret": "",
+        "accessToken": "",
+        "accessSecret": ""
+    }
+}
